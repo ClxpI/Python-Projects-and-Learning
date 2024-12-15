@@ -47,7 +47,8 @@ This folder contains 6 Processing Python projects. Each project applies the conc
    ![image](https://github.com/user-attachments/assets/547f6d7c-e082-41a5-96ae-c5b8775ad99f)
 
    **Recreated Drawing**  
-   ![image](https://github.com/user-attachments/assets/67fa6d93-818d-43bf-91f6-5095f13d80ba)
+   ![image](https://github.com/user-attachments/assets/24d58a37-47fd-49a2-9a00-7ba573582939)
+
 
 3. **ScrollsOnDesk**  
    **AI Generated**  
