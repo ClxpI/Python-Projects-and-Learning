@@ -44,10 +44,10 @@ This folder contains 6 Processing Python projects. Each project applies the conc
 
 2. **PersonAndBubbleSpeech**  
    **AI Generated**  
-   ![image](https://github.com/user-attachments/assets/67fa6d93-818d-43bf-91f6-5095f13d80ba)
+   ![image](https://github.com/user-attachments/assets/547f6d7c-e082-41a5-96ae-c5b8775ad99f)
 
    **Recreated Drawing**  
-   ![image](https://github.com/user-attachments/assets/4369129c-8cca-b4ce-27d47819c54d)
+   ![image](https://github.com/user-attachments/assets/67fa6d93-818d-43bf-91f6-5095f13d80ba)
 
 3. **ScrollsOnDesk**  
    **AI Generated**  
